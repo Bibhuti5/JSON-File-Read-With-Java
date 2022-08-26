@@ -1,0 +1,20 @@
+[
+    {
+        "id": "101",
+        "firstName": "Danny",
+        "lastName": "Sam",
+        "gender": "male",
+        "age": 24,
+        "address": "Chennai",
+        "height": "155"
+    },
+    {
+        "id": "102",
+        "firstName": "Nancy",
+        "lastName": "Maria",
+        "gender": "female",
+        "age": 21,
+        "address": "Delhi",
+        "height": "139"
+    }
+]
